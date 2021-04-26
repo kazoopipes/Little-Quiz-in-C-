@@ -7,3 +7,5 @@ and if its wrong it changes a boolean to equal false
 then at the end the booleans are put through an if statement that turns it into a score out of 3
 feel free to tell me how i can improve in the comments or if there is a way to reduce the lines of codem or make it simpler.
 enjoy! :D
+
+also im bad at spelling
