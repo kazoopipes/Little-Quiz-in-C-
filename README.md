@@ -1,4 +1,4 @@
-# Little-Quiz-in-C-
+# Little-Quiz-in-C++
 This is just a simple quiz I made in C++! I know my code is pretty bad, so you don't need to tell me :)
 
 basically what the file does is get the user to edit varieables and then runs them through an if statement.
